@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jinhyukSeo777/Twitter-Firebase.git/static/css/main.c3655db1.css",
-    "main.js": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.052b8789.js",
+    "main.js": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.859dd674.js",
     "index.html": "/jinhyukSeo777/Twitter-Firebase.git/index.html",
     "main.c3655db1.css.map": "/jinhyukSeo777/Twitter-Firebase.git/static/css/main.c3655db1.css.map",
-    "main.052b8789.js.map": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.052b8789.js.map"
+    "main.859dd674.js.map": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.859dd674.js.map"
   },
   "entrypoints": [
     "static/css/main.c3655db1.css",
-    "static/js/main.052b8789.js"
+    "static/js/main.859dd674.js"
   ]
 }
