@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jinhyukSeo777/Twitter-Firebase.git/static/css/main.c3655db1.css",
+    "main.js": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.9a90687e.js",
+    "index.html": "/jinhyukSeo777/Twitter-Firebase.git/index.html",
+    "main.c3655db1.css.map": "/jinhyukSeo777/Twitter-Firebase.git/static/css/main.c3655db1.css.map",
+    "main.9a90687e.js.map": "/jinhyukSeo777/Twitter-Firebase.git/static/js/main.9a90687e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3655db1.css",
+    "static/js/main.9a90687e.js"
+  ]
+}
